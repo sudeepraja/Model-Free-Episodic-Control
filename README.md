@@ -9,13 +9,11 @@ This is an implimentation of Episodic Control Agent. The implementation is a mod
 
 Game roms should be stored in directory *roms* which stays next to this folder.
 
-Model-Free-Episodic-Control
+Parent Folder
 
-├ MFEC -> source codes
+├ Model-Free-Episodic-Control -> source codes + README.md
 
-├ roms -> game roms
-
-└ README.md
+└ roms -> game roms
 
 ###Dependencies for running Episodic Control
 
