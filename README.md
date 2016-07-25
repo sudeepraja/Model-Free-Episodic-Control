@@ -2,7 +2,7 @@
 Implementation of the Model Free Episodic Control paper by Deep Mind : http://arxiv.org/abs/1606.04460
 
 #Introduction
-This is an implementation of Episodic Control Agent. The implementation is a modification of of [ShibiHe/Model-Free-Episodic-Control
+This is an implementation of Episodic Control Agent. The implementation is a modification of [ShibiHe/Model-Free-Episodic-Control
 ](https://github.com/ShibiHe/Model-Free-Episodic-Control).
 
 #Dependencies
